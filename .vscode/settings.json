@@ -1,0 +1,13 @@
+{
+    "markdown.marp.themes": [
+        "https://raw.githubusercontent.com/dracula/marp/master/dracula/dracula.css"
+    ],
+    "markdown.marp.enableHtml": true,
+    "presentation-mode.inactive": {
+        "commands": [
+            "workbench.action.focusSideBar"
+        ]
+    },
+    "zenMode.fullScreen": false,
+    "presentationMode.zoomLevel": 1
+}
